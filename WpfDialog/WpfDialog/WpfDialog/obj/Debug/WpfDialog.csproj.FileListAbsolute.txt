@@ -1,0 +1,13 @@
+C:\Nevin\Rhino-MyPlugins\WpfDialog\WpfDialog\bin\WpfDialog.dll
+C:\Nevin\Rhino-MyPlugins\WpfDialog\WpfDialog\bin\WpfDialog.pdb
+C:\Nevin\Rhino-MyPlugins\WpfDialog\WpfDialog\obj\Debug\DialogBox.g.cs
+C:\Nevin\Rhino-MyPlugins\WpfDialog\WpfDialog\obj\Debug\WpfDialog_MarkupCompile.cache
+C:\Nevin\Rhino-MyPlugins\WpfDialog\WpfDialog\obj\Debug\WpfDialog_MarkupCompile.lref
+C:\Nevin\Rhino-MyPlugins\WpfDialog\WpfDialog\obj\Debug\DialogBox.baml
+C:\Nevin\Rhino-MyPlugins\WpfDialog\WpfDialog\obj\Debug\WpfDialog.g.resources
+C:\Nevin\Rhino-MyPlugins\WpfDialog\WpfDialog\obj\Debug\WpfDialog.DailogResource.resources
+C:\Nevin\Rhino-MyPlugins\WpfDialog\WpfDialog\obj\Debug\WpfDialog.DockPanel.resources
+C:\Nevin\Rhino-MyPlugins\WpfDialog\WpfDialog\obj\Debug\WpfDialog.csproj.GenerateResource.cache
+C:\Nevin\Rhino-MyPlugins\WpfDialog\WpfDialog\obj\Debug\WpfDialog.csproj.CoreCompileInputs.cache
+C:\Nevin\Rhino-MyPlugins\WpfDialog\WpfDialog\obj\Debug\WpfDialog.dll
+C:\Nevin\Rhino-MyPlugins\WpfDialog\WpfDialog\obj\Debug\WpfDialog.pdb
